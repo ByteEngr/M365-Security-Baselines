@@ -41,3 +41,35 @@ This repository provides hardening baselines across Defender, Conditional Access
 
 ## 📂 Repository Structure
 
+Microsoft-365-Security-Baselines
+│
+├── README.md
+│
+├── Defender
+│   ├── MDE-DeviceControl-Policy.json
+│   ├── MDE-AttackSurfaceReduction.json
+│   ├── Enable-ASR-Rules.ps1
+│   ├── Export-MDE-Config.ps1
+│
+├── ConditionalAccess
+│   ├── CA-Baseline-MFA.json
+│   ├── CA-Baseline-Block-LegacyAuth.json
+│   ├── CA-ZeroTrust-Admin.json
+│   ├── Deploy-CA-Policy.ps1
+│   ├── Export-CA-Policies.ps1
+│
+├── EmailSecurity
+│   ├── SPF-Template.txt
+│   ├── DKIM-Setup-Guide.md
+│   ├── DMARC-Policy-Strict.txt
+│   ├── Generate-DomainProtectionReport.ps1
+│
+├── EndpointHardening
+│   ├── CIS-Windows10-Baseline.json
+│   ├── Harden-Windows.ps1
+│   ├── Disable-Weak-Protocols.ps1
+│
+├── ZeroTrust
+│   ├── ZeroTrust-Architecture.png
+│   ├── ZeroTrust-Principles.md
+│   ├── ZeroTrust-Assessment.ps1
