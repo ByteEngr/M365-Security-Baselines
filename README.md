@@ -9,30 +9,30 @@ This repository provides hardening baselines across Defender, Conditional Access
 
 ## 🚀 Included in this Toolkit
 
-### ✔️ Microsoft Defender for Endpoint
+### 1. Microsoft Defender for Endpoint
 - ASR baseline rules
 - Device control templates
 - Attack surface reduction scripts
 - MDE configuration export
 
-### ✔️ Conditional Access Baselines
+### 2. Conditional Access Baselines
 - MFA enforcement
 - Block legacy authentication
 - Zero Trust administrator protections
 - Export & deploy CA policies (PowerShell)
 
-### ✔️ Email Security (SPF, DKIM, DMARC)
+### 3. Email Security (SPF, DKIM, DMARC)
 - SPF best-practice templates  
 - Strict DMARC policies  
 - DKIM setup documentation  
 - Domain security analyzer script  
 
-### ✔️ Zero Trust Principles
+### 4. Zero Trust Principles
 - Zero Trust architecture diagram  
 - Security assessment scanner  
 - Identity, device, and network controls  
 
-### ✔️ Endpoint Protection Hardening
+### 5. Endpoint Protection Hardening
 - Disable weak protocols (SMBv1, TLS 1.0/1.1)  
 - Enterprise hardening scripts  
 - CIS-aligned JSON templates  
