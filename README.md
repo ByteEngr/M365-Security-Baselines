@@ -7,7 +7,7 @@ This repository provides hardening baselines across Defender, Conditional Access
 
 ---
 
-## 🚀 Included in this Toolkit
+## Included in this Toolkit
 
 ### 1. Microsoft Defender for Endpoint
 - ASR baseline rules
