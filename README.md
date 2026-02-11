@@ -42,6 +42,7 @@ This repository provides hardening baselines across Defender, Conditional Access
 ## 📂 Repository Structure
 
 Microsoft-365-Security-Baselines
+
 │
 ├── README.md
 │
